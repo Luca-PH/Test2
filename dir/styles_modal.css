@@ -1,0 +1,48 @@
+.close_modal_button
+{
+    display: none;
+    position: fixed;
+    z-index: 2;
+    right: 0;
+    top: 100px;
+    padding: 30px;
+    font-size: 40px;
+    cursor: pointer;
+    color: #ffffffd2;
+
+}
+
+.modal_background
+{
+  display: none;  
+  position: fixed; /* Stay in place */
+  right: 0px;
+  top: 0px;
+  z-index: 1; /* Sit on top */
+  padding-top: 0px; /* Location of the box */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+  height: 100%;
+  width: 100%;
+
+  
+  justify-content: center;
+  flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+  
+}
+
+.modal_image
+{
+  display: none;  
+  position: relative; /* Stay in place */
+
+  z-index: 1.5; /* Sit on top */
+  padding-top: 50px; /* Location of the box */
+ 
+  
+
+  height: 70%;
+  width: auto;
+}
