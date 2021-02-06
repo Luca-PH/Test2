@@ -30,7 +30,7 @@ var string_2 = `
               <li><a href='portrait.html' class="nav-button">Portraits</a></li>
               <li><a href='symmetries.html' class="nav-button">Symmetries <br>(Coming Soon)</a></li>
               <li><a href='P3.html' class="nav-button">P<sup>3</sup> <br>(Coming Soon)</a></li>
-              <li><a href='what_about_you.html' class="nav-button">What about you? <br>(Coming Soon)</a></li>
+              <li><a href='what_about_you.html' class="nav-button">W.A.Y.? <br>(Coming Soon)</a></li>
               <li><a href='skins.html' class="nav-button">Skins <br>(Coming Soon)</a></li>
             </ul>                                <!-- End of submenu -->
           </li>
